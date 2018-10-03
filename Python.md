@@ -30,15 +30,13 @@ Python for Everybody Specialization by Coursera [Click here](https://www.courser
 
 
 ## Documentations
-[1](https://docs.python.org/3/)
-
-[2](https://www.python.org/doc/)
+[Pyhton Documentation](https://docs.python.org/3/)
 
 
 ## Interactive Tutorials
-[1](https://www.learnpython.org/)
+[By LearnPython](https://www.learnpython.org/)
 
-[2](http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index)
+[By InteractivePython](http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index)
 
 
 ## Problems to Solve
