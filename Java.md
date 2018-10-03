@@ -20,7 +20,7 @@ API Specification](https://docs.oracle.com/javase/8/docs/api/)
 
 ### Interactive Tutorials
 
-- [Learn-C](http://learn-c.org) 
+- [LearnJava](https://www.learnjavaonline.org/) 
 
 ### Problems to Solve
 
