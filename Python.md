@@ -10,15 +10,15 @@ Python:Python Programming For Beginners: Easy Guide For Absolute Beginners by Br
 
 Powerful Python: The Most Impactful Patterns, Features and Development Strategies Modern Python Provides by Aaron Maxwell [Click to buy](https://www.amazon.in/Powerful-Python-Impactful-Development-Strategies-ebook/dp/B074JG8W8Z?tag=googinhydr18418-21&tag=kindlecontentin24-21&ascsubtag=_k_Cj0KCQjw0dHdBRDEARIsAHjZYYBrtOQrXpgvEF42Fvye16DjWR5u73ww_KMwSXZorQtPh8TKIEPOOc8aAv4SEALw_wcB_k_)
 
-Learning to program with Python by Richard L. Halterman [Click here to read](https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf)
+Learning to program with Python by Richard L. Halterman [Click to read](https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf)
 
 
 ## Online Courses(Free)
 SOLOLEARN Python 3 Tutorial [Click to read](https://www.sololearn.com/Course/Python/)
 
-Video tutorial on Python basics by Bucky Roberts [Click here to watch](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+Video tutorial on Python basics by Bucky Roberts [Click to watch](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
-Video tutorial on Python basics by Harrison Kinsley [Click here to watch](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+Video tutorial on Python basics by Harrison Kinsley [Click to watch](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 
 ## Online Courses(Paid)
