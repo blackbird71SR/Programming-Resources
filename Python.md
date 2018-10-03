@@ -3,6 +3,7 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 
 ## Books
 Python: Programming Basics for Absolute Beginners by Nathan Clark (Step-By-Step Python Book 1) [Click to buy](https://www.amazon.com/Python-Programming-Beginners-Step-Step-ebook/dp/B07BWT2MR5)
+
 Python the complete reference by Martin C. Brown [Click to buy](https://www.flipkart.com/python-complete-reference/p/itmf4fgfqnumtvwz?gclid=Cj0KCQjw0dHdBRDEARIsAHjZYYAf3JCRKazpGOTysxwb1AicSQR9V6Eri70nx73fM7tdH0Ok5yhVON0aAt19EALw_wcB&pid=9789387572942&lid=LSTBOK9789387572942RK9KVM&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,291072750917,1o2,,,c,,,,,,,&s_kwcid=AL!739!3!291072750917!!!g!295092701166!&ef_id=WrZHaAAAAFbr6S-2:20181003151005:s)
 Python:Python Programming For Beginners: Easy Guide For Absolute Beginners by Brian Jenkins [Click to buy] (https://www.amazon.in/Python-Programming-Beginners-Guide-Absolute-ebook/dp/B07FWVXVPJ?tag=googinhydr18418-21&tag=kindlecontentin24-21&ascsubtag=_k_Cj0KCQjw0dHdBRDEARIsAHjZYYCr2bylUotk_S9JOf1S1KvLEdcqU3FewjSAi3-CwX1N4kkzGDF76uwaAsHrEALw_wcB_k_)
 Powerful Python: The Most Impactful Patterns, Features and Development Strategies Modern Python Provides by Aaron Maxwell [Click to buy] (https://www.amazon.in/Powerful-Python-Impactful-Development-Strategies-ebook/dp/B074JG8W8Z?tag=googinhydr18418-21&tag=kindlecontentin24-21&ascsubtag=_k_Cj0KCQjw0dHdBRDEARIsAHjZYYBrtOQrXpgvEF42Fvye16DjWR5u73ww_KMwSXZorQtPh8TKIEPOOc8aAv4SEALw_wcB_k_)
