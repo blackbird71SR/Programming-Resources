@@ -14,6 +14,7 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 - SOLOLEARN Python 3 Tutorial [Click to read](https://www.sololearn.com/Course/Python/)
 - Video tutorial on Python basics by Bucky Roberts [Click to watch](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - Video tutorial on Python basics by Harrison Kinsley [Click to watch](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- Python tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags%5B%5D=1)
 
 
 ## Online Courses(Paid)
@@ -21,6 +22,7 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 - Python 3 course by Udemy [Click here](https://www.udemy.com/python-3-tutorials-be-a-paid-scripting-professional/)
 - Programming for Everybody (Getting Started with Python) [Click here](https://www.coursera.org/learn/python)
 - Python for Everybody Specialization by Coursera [Click here](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-3TK.x.rUu_BfXQAJ6U.xIg&siteID=TnL5HPStwNw-3TK.x.rUu_BfXQAJ6U.xIg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=TnL5HPStwNw)
+- Python tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags%5B%5D=2)
 
 ## Documentations
 
