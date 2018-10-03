@@ -13,9 +13,12 @@
 
 ### Documentations
 
+- [W3Schools CSS](https://www.w3schools.com/css/default.asp)
+- [React Docs/Tutorial](https://reactjs.org/)
+
 ### Interactive Tutorials
 
 ### Problems to Solve
 
-### Competation Platforms
+### Competition Platforms
 
