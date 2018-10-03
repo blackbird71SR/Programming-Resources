@@ -8,10 +8,12 @@ C is a general-purpose, imperative computer programming language, supporting str
 ### Online Courses(Free)
 
 - [C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7) by Derek Banas on YouTube
+- C tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1)
 
 ### Online Courses(Paid)
 
 - [Introduction to Programming in C Specialization](https://www.coursera.org/specializations/c-programming) by Duke University on Coursera
+- C tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=2)
 
 ### Documentations
 

@@ -5,15 +5,19 @@
 
 ### Online Courses(Free)
 
+- C++ tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-c-plus-plus?sort=upvotes&type_tags%5B%5D=1)
+
 ### Online Courses(Paid)
 
 - [C++ Modern Development Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
+- C++ tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-c-plus-plus?sort=upvotes&type_tags%5B%5D=2)
 
 ### Documentations
 
 - [A Tour of C++ by Bjarne Stroustrup](https://isocpp.org/tour)
 
 ### Interactive Tutorials
+
 
 ### Problems to Solve
 
