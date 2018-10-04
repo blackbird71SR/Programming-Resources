@@ -8,6 +8,7 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 - Python:Python Programming For Beginners: Easy Guide For Absolute Beginners by Brian Jenkins [Click to buy](https://www.amazon.in/Python-Programming-Beginners-Guide-Absolute-ebook/dp/B07FWVXVPJ?tag=googinhydr18418-21&tag=kindlecontentin24-21&ascsubtag=_k_Cj0KCQjw0dHdBRDEARIsAHjZYYCr2bylUotk_S9JOf1S1KvLEdcqU3FewjSAi3-CwX1N4kkzGDF76uwaAsHrEALw_wcB_k_)
 - Powerful Python: The Most Impactful Patterns, Features and Development Strategies Modern Python Provides by Aaron Maxwell [Click to buy](https://www.amazon.in/Powerful-Python-Impactful-Development-Strategies-ebook/dp/B074JG8W8Z?tag=googinhydr18418-21&tag=kindlecontentin24-21&ascsubtag=_k_Cj0KCQjw0dHdBRDEARIsAHjZYYBrtOQrXpgvEF42Fvye16DjWR5u73ww_KMwSXZorQtPh8TKIEPOOc8aAv4SEALw_wcB_k_)
 - Learning to program with Python by Richard L. Halterman [Click to read](https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf)
+- 53 python books [click here](http://importpython.com/books)
 
 ## Online Courses(Free)
 
@@ -15,7 +16,8 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 - Video tutorial on Python basics by Bucky Roberts [Click to watch](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - Video tutorial on Python basics by Harrison Kinsley [Click to watch](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 - Python tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags%5B%5D=1)
-
+- Python by [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- Google course on Python [Click here](https://developers.google.com/edu/python/)
 
 ## Online Courses(Paid)
 
