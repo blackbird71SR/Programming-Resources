@@ -28,7 +28,8 @@ Python is an object-oreinted programming language with really simple syntax. Hen
 
 ## Documentations
 
-- [Pyhton Documentation](https://docs.python.org/3/)
+- [Python Documentation](https://docs.python.org/3/)
+- [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 ## Interactive Tutorials
 
