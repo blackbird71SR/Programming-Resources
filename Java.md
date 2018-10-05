@@ -4,11 +4,13 @@ Java is a general-purpose, object oriented computer programming language, suppor
 ### Books
 
 - [Objects First with Java: A Practical Introduction Using BlueJ](https://www.amazon.com/gp/product/0134477367/)  by David J. Barnes and Michael Kolling 
+- a good link for basis of [Java](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 
 ### Online Courses(Free)
 
 - [Java Video Tutorial](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) by TheNewBoston on YouTube
 - Java tutorials on Hackr.io [Click here](https://hackr.io/tutorials/learn-java?sort=upvotes&type_tags%5B%5D=1)
+- Tutorial point course [here](https://www.tutorialspoint.com/java/)
 
 ### Online Courses(Paid)
 - [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) by Duke University on Coursera
